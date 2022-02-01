@@ -1,0 +1,10 @@
+
+- pip:  - Flask
+  - numpy
+  - azureml-defaults
+  - pandas
+  - matplotlib
+  - tqdm
+channels:
+- anaconda
+- conda-forge
