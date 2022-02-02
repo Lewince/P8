@@ -1,5 +1,5 @@
 # P8
-P8 - Segmentation sémantique d'images du Dataset Cityscapes - projet véhicule autonome
+P8 - Segmentation sémantique d'images routières - Dataset Cityscapes - projet véhicule autonome
 - Résumé dans la présentation ppt
 - Recherche documentaire à l'état de l'art
 - Comparaison de métriques et architectures
