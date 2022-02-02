@@ -3,7 +3,7 @@ P8 - Segmentation sémantique d'images routières - Dataset Cityscapes - projet 
 - Résumé dans la présentation ppt
 - Recherche documentaire à l'état de l'art
 - Comparaison de métriques et architectures
-- Essais d'architectures alternatives
+- Essais d'architectures alternatives (les modèles retenus pour la comparaison sont intégrés aux scripts d'entraînement)
 - Comparatif et optimisation des apports de différents procédés d'augmentation de données visuelles
 - Développement et déploiement d'une API et d'une webapp via Flask
 - Explicatif simplifié de la démarche suivie et des résultats dans la note technique au format word 
