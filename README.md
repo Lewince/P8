@@ -9,5 +9,5 @@ P8 - Segmentation sémantique d'images routières - Dataset Cityscapes - projet 
 - Explicatif des modèles testés, de la démarche suivie et des résultats dans la note technique au format word
 
 Le notebook de contrôle permet de réaliser un entraînement et la sauvegarde d'un modèle dans le cloud AzureML.<br>
-Le notebook API CLient montre comment utiliser les API définies dans l'app Flask.<br>
+Le notebook API Client montre comment utiliser les routes définies dans l'app Flask.<br>
 Les fichiers d'entraînement partagés illustrent les types d'architectures et d'augmentation de données mis en oeuvre
