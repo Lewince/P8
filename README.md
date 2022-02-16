@@ -1,10 +1,21 @@
-# P8
-P8 - Segmentation sémantique d'images routières - Dataset Cityscapes - projet véhicule autonome
-- Résumé de l'activitédans la présentation ppt
+# P8 - Segmentation sémantique d'images routières - Dataset Cityscapes - projet véhicule autonome
+
+
+
+https://user-images.githubusercontent.com/77936631/154293201-5360b05d-1e6a-4a8f-a035-f78c211f39f8.mp4
+
+
+
+https://user-images.githubusercontent.com/77936631/154293257-16f8b24d-307e-4461-86ad-6d4e8d5ed5df.mp4
+
+
+
+- Résumé de l'activité dans la présentation ppt
 - Recherche documentaire
 - Comparaison de métriques et architectures
 - Essais d'architectures alternatives (les modèles retenus pour la comparaison sont intégrés aux scripts d'entraînement)
 - Comparatif et optimisation des apports de différents procédés d'augmentation de données visuelles
+- Traitement de vidéos routières
 - Développement et déploiement d'une API et d'une webapp via Flask
 - Explicatif des modèles testés, de la démarche suivie et des résultats dans la note technique au format word
 
