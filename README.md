@@ -7,6 +7,7 @@ Original video after resizing | Segmented video
 <video src='https://user-images.githubusercontent.com/77936631/154296329-89562978-40cf-46c3-b86b-16784f7a9c69.mp4'/> | <video src='https://user-images.githubusercontent.com/77936631/154296537-c23b082b-2a3a-493b-95cf-83e2e556de0b.mp4'/>
 
 <br>
+
 - Résumé de l'activité dans la présentation ppt
 - Recherche documentaire
 - Comparaison de métriques et architectures
