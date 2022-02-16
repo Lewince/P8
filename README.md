@@ -4,7 +4,7 @@ Done using : Python, Tensorflow/Keras, Numpy, OpenCV, skimage - IoU and composit
 
 Original video after resizing | Segmented video 
 :-: | :-:
-<video src='https://user-images.githubusercontent.com/77936631/154293201-5360b05d-1e6a-4a8f-a035-f78c211f39f8.mp4' width=100/> | <video src='https://user-images.githubusercontent.com/77936631/154293257-16f8b24d-307e-4461-86ad-6d4e8d5ed5df.mp4' width=100/>
+<video src='https://user-images.githubusercontent.com/77936631/154296329-89562978-40cf-46c3-b86b-16784f7a9c69.mp4'/> | <video src='https://user-images.githubusercontent.com/77936631/154296537-c23b082b-2a3a-493b-95cf-83e2e556de0b.mp4'/>
 
 <br>
 - Résumé de l'activité dans la présentation ppt
